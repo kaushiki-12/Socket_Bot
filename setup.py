@@ -15,10 +15,11 @@ setup(name='py_package',
       author_email='chatbotintellectualsai@gmail.com',
       packages=setuptools.find_packages()
       classifiers=[
-        "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
-        "Operating System :: OS Independent",
-    ],
+          'Development Status :: 3 - Alpha',
+          'License :: OSI Approved :: MIT License',
+          'Programming Language :: Python :: 3',
+          'Topic :: Software Development :: Build Tools'
+      ],
     python_requires='>=3.7',
 
       
