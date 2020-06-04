@@ -13,7 +13,7 @@ setup(name='py_package',
       url='',
       author='kaushiki',
       author_email='chatbotintellectualsai@gmail.com',
-      packages=setuptools.find_packages()
+      packages=setuptools.find_packages(),
       classifiers=[
           'Development Status :: 3 - Alpha',
           'License :: OSI Approved :: MIT License',
